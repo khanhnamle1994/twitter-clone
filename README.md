@@ -5,7 +5,7 @@ A React Native Twitter clone that uses Cosmic JS for data storage.  Register / l
 ## Getting Started
 Create a new Bucket after logging in to [Cosmic JS](https://cosmicjs.com).
 ```
-git clone https://github.com/cosmicjs/react-native-twitter-clone
+git clone https://github.com/khanhnamle1994/twitter-clone
 cd react-native-twitter-clone
 yarn
 COSMICT_BUCKET=your-bucket-slug yarn start
